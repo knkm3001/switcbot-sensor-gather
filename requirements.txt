@@ -1,0 +1,7 @@
+paho-mqtt
+schedule
+requests
+python-dotenv
+sqlalchemy
+mysql-connector-python
+apscheduler
